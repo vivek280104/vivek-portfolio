@@ -497,6 +497,9 @@ header .follow a:hover{
 .footer span{
     color:var(--main-color);
 }
+.cad{
+    margin-top: 10px;
+}
 
 
 
